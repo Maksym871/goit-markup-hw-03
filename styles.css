@@ -321,7 +321,9 @@ img {
 }
 
 .border-img {
-  border: 1px solid var(--cornflower, #e7e9fc);
+  border-bottom: 1px solid var(--cornflower, #e7e9fc);
+  border-left: 1px solid var(--cornflower, #e7e9fc);
+  border-right: 1px solid var(--cornflower, #e7e9fc);
   padding-top: 0px;
 }
 .to-hide {

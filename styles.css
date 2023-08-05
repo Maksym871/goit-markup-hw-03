@@ -81,6 +81,8 @@ ul ol {
 .mail-nr {
   display: flex;
   gap: 40px;
+  margin: 0;
+  padding: 0;
 }
 nav {
   align-items: center;
